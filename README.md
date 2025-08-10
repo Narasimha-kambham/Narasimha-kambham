@@ -114,9 +114,11 @@ Explore my pinned repositories:
 ---
 
 ## 📊 GitHub Stats
-<div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha-kambham&layout=compact&langs_count=6&theme=dracula&hide_border=false" alt="Top languages" />
-</div>
+
+<p align="center" width="100%">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha-kambham&layout=compact&langs_count=6&theme=dracula&hide_border=false" alt="Top languages" />
+  <img src="./assets/video.gif" width="49%" alt="Demo GIF" />
+</p>
 
 <!-- Optional streak card:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Narasimha-kambham&theme=dracula)](https://git.io/streak-stats)
