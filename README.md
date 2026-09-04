@@ -1,139 +1,252 @@
-# Narasimha Kambham (K V L V Narasimha Prakash)
+# 👋 Hi, I'm Narasimha Prakash
 
-## 👋 Welcome to My GitHub!
-Dynamic & innovative software engineer with a passion for Java development, team collaboration, and continuous improvement.  
-Currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at Siddartha Institute of Science and Technology, Puttur.
+### 🤖 AI/ML Engineer | Generative AI | RAG | Computer Vision
 
----
+I'm a Computer Science & Engineering (AI & ML) graduate passionate about
+building intelligent systems using Machine Learning, Generative AI,
+Natural Language Processing, Computer Vision, and Large Language Models.
 
-## 🌟 About Me
-- Name: Narasimha Prakash K V L V (aka Narasimha Kambham)
-- Email: viswakambham@gmail.com
-- Languages: English (B2), Telugu (C2), Hindi (B1)
+🎓 **B.Tech CSE (AI & ML) — 9.58 CGPA**  
+🥇 **First Rank in AI & ML**  
+🏆 **College Gold Medalist — 2026**
 
-I believe great software is built through creativity, strong analytical skills, and active community engagement. I’ve contributed to multiple technical projects, mentored juniors, and promoted environmental awareness via hands-on workshops.
-
----
-
-## 🔧 Tech Stack & Skills
-- Languages: Java, Python, JavaScript, HTML, CSS
-- Focus: Front-end development, Web animations (JS)
-- Practices: Debugging, Unit Testing, Documentation, Collaboration
-- Soft Skills: Teamwork, Leadership, Creativity, Analytical Thinking, Attention to Detail
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
-
-###
+I enjoy turning ideas into practical AI applications — from multi-modal
+RAG systems and conversational AI to document intelligence and computer
+vision solutions.
 
 ---
 
-## 🏆 Experience & Achievements
-- Intern @ ProgMaster (Remote)
-  - Developed, debugged, and tested Java applications
-  - Mentored junior developers via pair programming
-  - Improved proficiency with modern dev tools
-- Volunteer @ Siddartha Institute of Science and Technology
-  - Organized events and led environmental awareness workshops
-- Academic Highlights
-  - Class Representative: CSM (AI & ML)
-  - Python Mentor: Workshop for juniors
+## 🧠 About Me
+
+- 🤖 Focused on **AI/ML, Generative AI, LLMs, RAG & AI Agents**
+- 🧠 Experienced with **Machine Learning, Deep Learning & NLP**
+- 🔎 Interested in **Semantic Search, Vector Search & Document Intelligence**
+- 👁️ Exploring **Computer Vision, OCR & Head Pose Estimation**
+- 🎙️ Building **Speech-to-Text & Text-to-Speech** systems
+- 💼 Currently working as an **AI Research Intern at UpToSkills**
+- 👥 Founder & Lead of **Tejova E-Cell**
+- 🚀 Passionate about building, experimenting and continuously learning
 
 ---
 
-## 📚 Education
-| Degree              | Institution                                 | Year                  |
-|---------------------|---------------------------------------------|-----------------------|
-| B.Tech (CSE, AI&ML) | Siddartha Institute of Science & Technology | Sep 2026 (Expected)   |
-| Intermediate: MPC   | Sri Chaitanya Junior College, Tirupati      | Mar 2020              |
-| SSC                 | Akshara High School, Tirupati               | 2022                  |
+# 🛠️ Tech Stack
+
+### 💻 Programming & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,mongodb,git,github,linux,aws&perline=7" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+
+`Machine Learning` · `Deep Learning` · `NLP` · `Data Science` · `Data Analysis`
+
+`LLMs` · `RAG` · `LangChain` · `AI Agents` · `Prompt Engineering`
+
+`BERT` · `RoBERTa` · `FAISS` · `Sentence Transformers`
+
+`Gemini API` · `Google ADK`
+
+</p>
+
+### 👁️ Computer Vision
+
+<p align="center">
+
+`OpenCV` · `MediaPipe` · `Tesseract OCR`
+
+`Head Pose Estimation` · `Image Processing` · `Document Intelligence`
+
+</p>
 
 ---
 
-## 🥇 Certifications
-- Front End Development (ProgMaster): Oct–Nov 2023
-- Java (ProgMaster): Jan–Feb 2024
-- Web Animations Using JavaScript (DevTown): 2024
-- Industry 4.0 & IIoT (NPTEL): Jan–Apr 2024
+# 💼 Experience
+
+## AI Research Intern — UpToSkills
+
+**May 2026 – Present**
+
+Working on an **AI-powered Interview Automation System**.
+
+- 🎙️ Built Speech-to-Text (STT) and Text-to-Speech (TTS) modules for conversational AI
+- 👁️ Developing Head Pose Estimation using OpenCV and MediaPipe
+- 🤖 Working on AI model integration and testing
+- 📊 Contributing to candidate behavior analysis workflows
+- 🧩 Developing modular AI components for end-to-end interview intelligence systems
 
 ---
 
-## 🌐 My Online Presence
-- Portfolio: https://narasimhakambham.netlify.app
-- LinkedIn: https://www.linkedin.com/in/narasimha-prakash-k-v-l-v-b79142265
-- GitHub: https://github.com/Narasimha-kambham
+# 🚀 Featured Projects
 
-<div align="left">
-  <a href="mailto:srichkra89@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/narasimha-prakash-k-v-l-v-b79142265">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://narasimhakambham.netlify.app">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
-  </a>
-</div>
+## 📄 Enterprise Multi-Modal RAG System
+### Financial Document Intelligence
 
----
+**Python · LangChain · FAISS · Sentence Transformers · Gemini API · OCR**
 
-## 💻 Projects Showcase
-Explore my pinned repositories:
-- Java backend applications
-- Frontend design projects
-- Python & AI/ML experiments
+A multi-modal Retrieval-Augmented Generation system designed for
+financial document intelligence.
+
+- 📑 Supports **PDFs, CSV files, images and text documents**
+- 🔍 Implemented semantic retrieval using **Sentence Transformers**
+- 🗂️ Built vector indexing using **FAISS**
+- 🖼️ Implemented OCR pipelines using **Tesseract OCR & OpenCV**
+- 🎯 Improved retrieval using **reranking and semantic search**
+- 🤖 Integrated **Gemini API** for intelligent responses
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Mental Health Conversational Assistant
+
+**Python · NLP · BERT · RoBERTa · RAG**
+
+An AI-powered conversational assistant combining transformer-based
+emotion classification with retrieval and LLM-powered responses.
+
+- 👥 Led a team of **5 students**
+- 🧠 Implemented transformer-based emotion classification
+- 🤖 Integrated LLM-powered response generation
+- 🔎 Added retrieval-based support recommendations
+- 🧪 Coordinated testing, documentation and final project delivery
+
+---
+
+## 📰 NewsVista — AI News Summarization System
+
+**LangChain · Firecrawl · Gemini**
+
+An AI-powered system for automated news retrieval and summarization.
+
+- 🌐 Built automated news retrieval pipelines
+- 🔄 Processed retrieved content through an AI pipeline
+- 🤖 Generated concise summaries using **Gemini**
+- 📝 Delivered AI-powered news insights
+
+---
+
+## 📚 Last-Minute Learning Copilot
+
+**Google ADK · Gemini**
+
+An AI-powered study assistant designed to help students learn
+efficiently under time constraints.
+
+- 📅 Study planning
+- 📝 Content summarization
+- ❓ Question answering
+- 🤖 Built using **Google ADK & Gemini**
+
+---
+
+# 🏆 Achievements
+
+- 🥇 **First Rank in AI & ML**
+- 🏆 **College Gold Medalist — 2026**
+- 🎓 **9.58 / 10 CGPA**
+- 🚀 Founder & Lead — **Tejova E-Cell**
+- 👥 Organized initiatives for **150+ students**
+- 🧑‍💼 Managed a **6-member core team**
+
+---
+
+# 🎓 Education
+
+### B.Tech — Computer Science & Engineering (AI & ML)
+
+**Siddartha Institute of Science and Technology**  
+**2022 – 2026**
+
+**CGPA: 9.58 / 10**  
+🥇 First Rank in AI & ML  
+🏆 College Gold Medalist — 2026
+
+---
+
+# 📜 Certifications
+
+- **Principles of Generative AI** — Infosys Springboard
+- **Artificial Intelligence Primer** — Infosys Springboard
+- **Programming in Java** — NPTEL
+- **Introduction to Industry 4.0 & IIoT** — NPTEL
+
+---
+
+# 🦁 Just Another Day of Coding
 
 <p align="center">
   <img
-    src="./profile/stats.svg"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    width="49%"
-    alt="Top Languages"
+    src="./assets/video.gif"
+    width="70%"
+    alt="Coding animation"
   />
 </p>
 
-<!-- Optional streak card:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Narasimha-kambham&theme=dracula)](https://git.io/streak-stats)
--->
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Narasimha-kambham">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=Narasimha-kambham&show_icons=true&theme=dracula&hide_border=false"
+      width="49%"
+      alt="Narasimha Prakash's GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/Narasimha-kambham">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Narasimha-kambham&layout=compact&langs_count=6&theme=dracula&hide_border=false"
+      width="49%"
+      alt="Narasimha Prakash's Top Languages"
+    />
+  </a>
+</p>
 
 ---
 
-> “Strive not to be a success, but rather to be of value.”
+# 🌐 Connect With Me
 
-<!-- SEO: Narasimha Kambham, K V L V Narasimha Prakash, Java Developer, AI & ML, Siddartha Institute of Science and Technology, ProgMaster, Portfolio, LinkedIn, GitHub -->
+<p align="center">
+
+<a href="https://narasimhakambham.netlify.app">
+  <img
+    src="https://img.shields.io/badge/Portfolio-1DB954?style=for-the-badge&logo=google-chrome&logoColor=white"
+    height="35"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/narasimha-kambham">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    height="35"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:viswakambham@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    height="35"
+    alt="Gmail"
+  />
+</a>
+
+<a href="https://github.com/Narasimha-kambham">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    height="35"
+    alt="GitHub"
+  />
+</a>
+
+</p>
+
+---
+
+> **"Strive not to be a success, but rather to be of value."**
+
+⭐ **Feel free to explore my repositories and connect with me!**
